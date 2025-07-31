@@ -19,7 +19,7 @@
 </div>
 </div>
 
-I am currently enrolled as a Senior at the University of Cincinnati pursuing an undergraduate degree in Computer Science, graduating in May 2026. I have a strong background in data science, software development, and web development. I'm passionate about solving complex problems and building scalable solutions.
+I’m graduating in May 2026 with a dual degree in Computer Science (B.S.) and Business Administration (MBA) from the University of Cincinnati. I bring a strong foundation in data science, machine learning, and software development, paired with a strategic understanding of business and decision-making. I specialize in transforming complex data into clear, actionable insights that drive real-world impact. I thrive at the intersection of technology and strategy, where analytical thinking meets business value. I’m currently seeking full-time data science opportunities where I can contribute immediately and continue growing as both a technical expert and a strategic thinker.
 
 ## 🚀 Skills
 - **Programming Languages**: Python, C/C++, Visual Basic for Applications (VBA)
@@ -50,22 +50,28 @@ I am currently enrolled as a Senior at the University of Cincinnati pursuing an 
 - **Repository**: [Prototype Mover Robot]()
 
 ## 💼 Experience
-### Midea Group (U.S.) | Data Science Intern
+### Midea America Research Center (Louisville, KY, USA) | Data Science Intern
+- **Duration**: May 2024 – Aug 2024
+
+### Midea America Research Center (Louisville, KY, USA) | Data Scientist
+- **Duration**: Jun 2024 – Apr 2024
+
+### ### Midea America Research Center (Louisville, KY, USA) | Data Science Intern
 - **Duration**: Jan 2024 – May 2024
 
-### University of Cincinnati (U.S.) | Engineering Teaching Assistant
+### University of Cincinnati (Cincinnati, OH, USA) | Engineering Teaching Assistant
 - **Duration**: Jan 2023 - May 2023
 
-### The Cincinnati Insurance Company (U.S.) | Software Engineering Intern
-- **Duration**: May 2023 – August 2023
+### The Cincinnati Insurance Company (Cincinnati, OH, USA) | Software Engineering Intern
+- **Duration**: May 2023 – Aug 2023
 
-### Deloitte & Touché (M.E.) | Information Technology Audit Intern
+### Deloitte & Touché (Muscat, Oman) | IT Audit and Consulting Intern
 - **Duration**: Aug 2022 – Dec 2022
 
 ## 🎓 Education
 - **Bachelor of Science, Computer Science**
   - University of Cincinnati, Expected Graduation: May 2026
-  - Honors: Dean’s List Recognition (4/4 Semesters), Fully Funded Scholarship (Ministry of Higher Education of Oman)
+  - Honors: Dean’s List Recognition (8/8 Semesters), Fully Funded Scholarship (Ministry of Higher Education of Oman)
 
 ## 📫 Contact Me
 - **Email**: alkiyuam@mail.uc.edu
