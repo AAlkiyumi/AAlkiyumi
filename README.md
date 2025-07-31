@@ -56,7 +56,7 @@ I’m graduating in May 2026 with a dual degree in Computer Science (B.S.) and B
 ### Midea America Research Center (Louisville, KY, USA) | Data Scientist
 - **Duration**: Jun 2024 – Apr 2024
 
-### ### Midea America Research Center (Louisville, KY, USA) | Data Science Intern
+### Midea America Research Center (Louisville, KY, USA) | Data Science Intern
 - **Duration**: Jan 2024 – May 2024
 
 ### University of Cincinnati (Cincinnati, OH, USA) | Engineering Teaching Assistant
