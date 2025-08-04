@@ -19,7 +19,7 @@
 </div>
 </div>
 
-I’m graduating in May 2026 with a dual degree in Computer Science (B.S.) and Business Administration (MBA) from the University of Cincinnati. I bring a strong foundation in data science, machine learning, and software development, paired with a strategic understanding of business and decision-making. I specialize in transforming complex data into clear, actionable insights that drive real-world impact. I thrive at the intersection of technology and strategy, where analytical thinking meets business value. I’m currently seeking full-time data science opportunities where I can contribute immediately and continue growing as both a technical expert and a strategic thinker.
+I am currently enrolled as a Senior at the University of Cincinnati pursuing an undergraduate degree in Computer Science, graduating in May 2026. I have a strong background in data science, software development, and web development. I'm passionate about solving complex problems and building scalable solutions.
 
 ## 🚀 Skills
 - **Programming Languages**: Python, C/C++, Visual Basic for Applications (VBA)
